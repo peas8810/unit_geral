@@ -41,10 +41,30 @@ pytesseract.pytesseract.tesseract_cmd = r'/usr/bin/tesseract'
 
 # Funções de cada módulo (resumidas) ...
 # TODO: Copiar aqui as funções pdf_para_word, juntar_pdf, dividir_pdf, jpg_para_pdf
+
+
+
 # TODO: Funções de PlagIA (salvar_email, verificar_codigo, extrair_texto, calcular_similaridade, buscar_referencias, gerar_relatorio)
+
+
+
+
+
 # TODO: Funções de CitatIA (salvar_email, verificar_codigo, gerar_codigo, get_popular_phrases, extract_top_keywords, get_publication_statistics, evaluate_article_relevance, generate_report)
+
+
+
+
+
 # TODO: Funções de TotalIA (preprocess_text, analyze_text_roberta, calculate_entropy, analyze_text, extract_text_from_pdf, generate_pdf_report)
+
+
+
+
 # TODO: Funções de LaTeX (salvar_contato, carregar_templates, gerar_tex)
+
+
+
 
 # Interface unificada
 def main():
