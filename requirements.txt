@@ -10,9 +10,9 @@ fpdf
 nltk
 numpy
 pandas
-transformers
-torch
 pypandoc
 jinja2
 pdfplumber
 reportlab
+transformers>=4.39.0
+torch>=2.2.0
