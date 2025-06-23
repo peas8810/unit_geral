@@ -33,6 +33,7 @@ import numpy as np
 import pandas as pd
 from transformers import RobertaTokenizer, RobertaForSequenceClassification
 import torch
+import torch.nn as nn
 # LaTeX generation
 import pypandoc
 from jinja2 import Environment, FileSystemLoader
