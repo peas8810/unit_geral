@@ -4,6 +4,11 @@ import tempfile
 import io
 import streamlit as st
 # PDF utilities
+import os
+import shutil
+import time
+import zipfile
+import subprocess
 from PyPDF2 import PdfMerger, PdfReader, PdfWriter
 from pdf2docx import Converter
 from PIL import Image
